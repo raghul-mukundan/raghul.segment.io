@@ -1,13 +1,13 @@
-<body>
-<h1>Sign up for the latest information on sneaker drops!</h1>
-<p>Enter<!DOCTYPE html>
+<!DOCTYPE html>
  
 <html>
 <head>
 <title>Sneakerhead Signup<span id="selection-marker-1" class="redactor-selection-marker"></span></title>
 </head> 
  
- your contact information if you would like to receive alerts about the best sneakers as soon as they drop.</p>
+<body>
+<h1>Sign up for the latest information on sneaker drops!</h1>
+<p>Enter your contact information if you would like to receive alerts about the best sneakers as soon as they drop.</p>
 <!--Location for users to enter their information to receive the sneakerhead newsletter-->
 <form name="sneakersignup" onsubmit="identify(event)">
 <br> <br>
